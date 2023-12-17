@@ -1,0 +1,26 @@
+.main{
+    background-color: red;
+}
+
+.twin{
+    background-color: grey;
+    text-align:right;
+    padding-top: 18em;
+}
+hr {
+    
+    background: black;
+}
+.sky{
+    background-color: grey;
+    height: 10em;
+    width: 16em;
+}
+
+.font{
+    font-size:x-small;
+}
+
+body{
+padding: 2em;
+}
